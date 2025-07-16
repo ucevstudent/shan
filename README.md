@@ -125,5 +125,5 @@ After the 3rd unsuccessfull attempt at typing the correct password , an alarm is
 In this project, we successfullty implemented a VHDL solution for digital Lock with proper functionning and multiple features including : password modification and an alarm system, using a  state machine algorithm . This solution can further implemented on a hardware level.
   
   ### Contact:
-* Mail : mohamedamine.benabdeljelil@insat.u-carthage.tn -- mohamedaminebenjalil@yahoo.fr
-* Linked-in profile: https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/
+* Mail : ethirajshanmugam94@gmail.com
+* Linked-in profile: https://www.linkedin.com/in/shanmugam-eathiraj-458a03347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
